@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.samarchandra.tddpluginv00.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.samarchandra.tddpluginv00.MyBundle
 
 class MyApplicationService {
 
